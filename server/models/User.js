@@ -20,7 +20,11 @@ const userSchema = new mongoose.Schema({
   cars: [
     {
       type: mongoose.Schema.Types.ObjectId,
+<<<<<<< HEAD
       ref: "Cars",
+=======
+      ref: "Car",
+>>>>>>> bc48952c30e827588af7fda97b9dcbae7f35b229
     },
   ],
 });
