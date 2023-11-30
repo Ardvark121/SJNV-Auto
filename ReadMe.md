@@ -16,10 +16,10 @@ Simple web app for searching details about cars and comparing to other cars in t
 
 
 ## Author
-- Jaxon Grosam
-- Nicholas Wachira
-- Shawn Kim
-- Vilson Apostolovski
+- Jaxon Grosam (https://github.com/jaxongrosam)
+- Nicholas Wachira (https://github.com/Tocopro)
+- Shawn Kim (https://github.com/Ardvark121)
+- Vilson Apostolovski (https://github.com/Thinker92)
 
 ## Technologies
 
